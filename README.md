@@ -1,5 +1,5 @@
 GitHub for Chrome
-===================
+=================
 
 Provides a link to [GitHub](https://github.com) from Google Chrome's new tab page. This an currently an unofficial app; it is not supported, affiliated or endorced by the GitHub team or the Google Chrome authors.
 
